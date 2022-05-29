@@ -9,3 +9,7 @@ body {
   height: 100vh;
   background: #000;
 }
+
+marquee {
+  height: 100vh;
+}
